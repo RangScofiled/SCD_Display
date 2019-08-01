@@ -1,0 +1,13 @@
+C:\Users\RANG\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\RANG\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\RANG\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\RANG\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Common.IEDControl.resources
+C:\Users\RANG\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Resources.Messages.resources
+C:\Users\RANG\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.View.ConfigView.resources
+C:\Users\RANG\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.View.Form1.resources
+C:\Users\RANG\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\RANG\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csproj.GenerateResource.cache
+C:\Users\RANG\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+C:\Users\RANG\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\RANG\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+C:\Users\RANG\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csprojAssemblyReference.cache
